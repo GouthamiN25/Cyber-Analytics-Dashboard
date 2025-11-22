@@ -38,6 +38,12 @@ http://localhost:5500/
 
 ---
 
-## Author
+## 👩‍💻 Author
+Gouthami Nadupuri
 
+Data Scientist | AI Engineer | Creator of CurioGalaxy 💫
+
+🔗 LinkedIn: https://www.linkedin.com/in/gouthami-nadupuri
+
+🔗 GitHub: https://github.com/GouthamiN25
 
