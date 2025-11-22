@@ -46,7 +46,8 @@ http://localhost:5500/
 
 <img width="1451" height="849" alt="Cyber analytics dashboard" src="https://github.com/user-attachments/assets/5b3185cf-f86b-4873-bb76-de4726e9bbda" />
 
-👩‍💻 Author
+# 👩‍💻 Author
 Gouthami Nadupuri
 Data Science | AI Engineer| Cybersecurity Analytics
-GitHub: GouthamiN25
+🔗 LinkedIn: https://www.linkedin.com/in/gouthami-nadupuri
+🔗 GitHub: https://github.com/GouthamiN25
