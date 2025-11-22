@@ -32,22 +32,35 @@ Typical information shown on the dashboard:
 
 ---
 
-## 📁 Project Structure
-
-```text
-Cyber-Analytics-Dashboard/
-│
-├── index.html                 # Main dashboard page
-├── styles.css                 # Styles for layout, colors, typography
-├── merged_cyber_incidents.csv # Sample dataset used to design the dashboard
-└── Cyber-Analytics Command file.pdf  # Notes / commands used while building
-
 http://localhost:5500/
 
 <img width="1451" height="849" alt="Cyber analytics dashboard" src="https://github.com/user-attachments/assets/5b3185cf-f86b-4873-bb76-de4726e9bbda" />
 
+---
+
+## 📁 Project Structure
+
+```text
+Cyber-Analytics-Dashboard/
+
+│
+├── index.html
+
+├── styles.css
+ 
+├── merged_cyber_incidents.csv
+
+└── Cyber-Analytics Command file.pdf
+
+---
+
+
 ## 👩‍💻 Author
+
 Gouthami Nadupuri
+
 Data Science | AI Engineer| Cybersecurity Analytics
+
 🔗 LinkedIn: https://www.linkedin.com/in/gouthami-nadupuri
+
 🔗 GitHub: https://github.com/GouthamiN25
