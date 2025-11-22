@@ -38,29 +38,6 @@ http://localhost:5500/
 
 ---
 
-## 📁 Project Structure
-
-```text
-Cyber-Analytics-Dashboard/
-
-│
-├── index.html
-
-├── styles.css
- 
-├── merged_cyber_incidents.csv
-
-└── Cyber-Analytics Command file.pdf
-
----
+## Author
 
 
-## 👩‍💻 Author
-
-Gouthami Nadupuri
-
-Data Science | AI Engineer| Cybersecurity Analytics
-
-🔗 LinkedIn: https://www.linkedin.com/in/gouthami-nadupuri
-
-🔗 GitHub: https://github.com/GouthamiN25
